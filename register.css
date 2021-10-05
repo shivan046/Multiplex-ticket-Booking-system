@@ -1,0 +1,19 @@
+body{
+    background:url(/images/wanda-banner.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    color: white;
+}
+span{
+    color: white;
+}
+.register{
+    display: inline-block;
+    margin-top: 150px;
+    width: 25%;
+}
+.form-floating {
+    position: relative;
+    margin: 12px;
+}

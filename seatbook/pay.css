@@ -1,0 +1,15 @@
+body{
+    background: url(/images/pay1.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.mycontainer {
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding: 35px;
+}
+#head{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
